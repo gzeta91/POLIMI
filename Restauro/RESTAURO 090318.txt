@@ -46,5 +46,14 @@ la rete posizionata è definita da un sistema locale, es. origine della rete e di
 
 teta ij = arcotg(xj-x1)/(yj-yi)
 
+es.
+8puntix3cordinate=24 cordinate
+
+1 un punto ha cordinaete 0
+2 cordinate =0
+
+questi due punti danno 4 cordinate certe  quindi quelle da trovare sono effettivamente 20 incognite. 20 inc e 72 osservazioni mi permette di avere un sistema ridonte,che mi permette di essere più preciso. affianco a quella misura avrò un più o meno tot millimetri. 
+
+scala tipica è 1:50
 
 
