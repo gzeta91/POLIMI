@@ -1,0 +1,51 @@
+FOTOGRAMMETRIA
+
+Tecnica che ci permette di estrarre dimensioni metriche attraverso un immagni
+estraiamo _
+-nuvole dense
+texture 3d su cui applicheremo mash
+
+
+immagni ch esorvolavano il terreno
+-trioangolo a terra noto
+-punti eri erani check point
+ restituivano orientamento dell'immagine e mmm bho
+
+oggi è superato 
+ma usiamo 3d prodotto dal softwer
+
+il 3d si forma nel nostro cervello "campo 17" dove le immagini 2d di ogni occhio si fondono e diventano 3d
+
+camere metriche, venivano messi dei marker attorno alle paretri
+
+mi servono almeno 2 immagini per la fotogrammetria.
+
+xyz oggetto
+xy ogni immagine ha 2d
+g parametri
+
+quando fotografo ho l'oggetto i parametri (camera) acquisizione dell'immagine
+per fare il passaggio da immagine a oggetto mi devo spostare sui parametri orientamento e oggetto
+
+occorre punti sull'oggetto per calcolare i parametri di orientamento
+ho le immagini ho gli orientamenti ripasso al modello
+
+acquisizione orientamento restituzione
+
+orientamento esterno (posizione x yx z e rotazione omega fi kappa) sono 6 
+orientamento interno (punto principale x0 e y0, lunghezza ecoefficeinte di distorsione c)
+l'orientamento interno è costante se non cambio camera, se staco l'obbiettivo e lo cambio allora cambia. 
+
+
+equazioni di collinearia
+
+x y c parametri orientamento interno
+x0 y0 z0  coordinate del centro di presa
+omega fi e k sono tre angoli a coeff mij
+
+x e y  coordinate sul piano immagine
+x y z coordinate del punto oggetto
+
+
+
+ 
