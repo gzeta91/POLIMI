@@ -46,6 +46,19 @@ omega fi e k sono tre angoli a coeff mij
 x e y  coordinate sul piano immagine
 x y z coordinate del punto oggetto
 
+durante il percorso di acquisiz dell'immagine il punto i attraversa la lente dell'obiettivo l'oggetto viene distorto e subisce due deform r e p
 
+ppa a o sono x0 y0 
+
+ogni distanza viene deformata di deltaR
+
+Dx: x0 = DR :R -> DX= (DR/R) * x1
+
+Photoscan agisoft
 
  
+devo calcolare l guarda foto
+
+se scatto due foto in facciata posso fare il 3d dove le foto si sovrappongono
+> cambare impostazione almeno 60% di sovrapposizione almeno 3 foto punto di partenza almeno in tre foto e punto finale almeno in tre foto. 
+>
