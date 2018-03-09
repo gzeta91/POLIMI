@@ -108,7 +108,7 @@ ugni stazione seguia dalle misure che ha fatto
 1-c fa capire un programma che è seguito dalle cordinate
 2_ metto o le coordinate o * o !
 3_# fa saltare la riga e diventa descrittiva
-4_ B Biring angolo se mesa tra sue # diventa descrittiva
+4_ B Bearings angolo se mesa tra sue # diventa descrittiva
 5_db acronimo della syazione
 dm punto oeeserato composta dalle varie colonne (numero punto - azimit - distanza - zenit - altezza stazione/altezza del prisma nel punto)
 6_ de END
@@ -135,5 +135,103 @@ zenit precisione più bassa -> 0.5
 
 
 fare ok e good luck
+
+prima si simula senza misure, poi si simula con le misure più osservazioni
+
+tasto dx plot option
+
+triangolino rosso= è fissa
+ellissi sono errori in forma grafica 
+la dimensione è l'errore e l'orientamento anche 
+
+ELLISSE:luogo geometrico dei punti con la probabilità dek 95% che sia all'interno.
+
+1011 abbiamo bloccato la y quindi è piatto
+
+
+
+output -> listing -> guarda
+		
+		Observation   Count   Sum Squares         Error
+                                    of StdRes        Factor
+             Directions      22        45.158         1.878
+              Distances      22        63.461         2.226
+            Az/Bearings       1         0.000         0.000
+                Zeniths      22      1161.924         9.525
+
+                  Total      67      1270.544         5.708
+
+
+zenith troppo alto
+
+   From       To              Distance      Residual   StdErr StdRes File:Line
+           1012       1011              5.2943       -0.0010   0.0006   1.6     1:11  
+           1012       1010             37.0161       -0.0001   0.0006   0.2     1:12  
+           1012       1009             37.4368       -0.0005   0.0006   0.9     1:13  
+           1012       2008             19.6856        0.0002   0.0006   0.3     1:14  
+           1012       2009             22.7776        0.0023   0.0006   3.8*    1:15  
+
+
+
+* asterisco troppo alto
+
+
+
+correzione strumento
+
+			 Adjustment Statistical Summary
+                         ==============================
+
+                        Iterations              =      2
+
+                        Number of Stations      =      9
+
+                        Number of Observations  =     67
+                        Number of Unknowns      =     28
+                        Number of Redundant Obs =     39
+
+            Observation   Count   Sum Squares         Error
+                                    of StdRes        Factor
+             Directions      22         4.597         0.599
+              Distances      22        13.681         1.034
+            Az/Bearings       1         0.000         0.000
+                Zeniths      22        32.239         1.587
+
+                  Total      67        50.516         1.138
+
+
+
+IMPORTANTE -> The Chi-Square Test at 5.00% Level Passed
+
+
+RAPPRESENTANO LE SIGMA PER OGNI COORDINATA (sono tutte inferiori almillimetro)
+
+ 				Error Propagation
+                               =================
+
+                Station Coordinate Standard Deviations (Meters)
+
+Station                     E             N             Elev
+1009                      0.000566      0.000312      0.000452
+1010                      0.000554      0.000308      0.000456
+1011                      0.000387      0.000000      0.000173
+1012                      0.000000      0.000000      0.000000
+2008                      0.000372      0.000532      0.000701
+2009                      0.000400      0.000532      0.000711
+2014                      0.000428      0.000512      0.000616
+2015                      0.000438      0.000532      0.000704
+2016                      0.000472      0.000523      0.000706
+
+
+
+
+
+
+
+
+
+
+
+
 
 
