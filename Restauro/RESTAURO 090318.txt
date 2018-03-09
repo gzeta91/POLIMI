@@ -1,0 +1,24 @@
+09/03/2018
+
+
+TOPOGRAFIA
+che cosa misuriamo? chi fa le misre? come le facciamo?
+
+RILIEVO DIRETTO
+
+TOPOGRAFIA
+disciplina studia i luoghi che sarà da struttura portante delle nostre informazioni. Saraà la disciplina che ci permette di mettere insieme una serie di punti moloto precisi. qualsiasi sia il rilievo successivo la toopografia è fondamentale. il laser scanner funziona se è limitato, ma se la zona è più vasta allora è necessaria la topografia che crea una griglia di punti. 
+
+FOTOGRAMMETRIA
+la fotogrammetria utile per piccole pareti, ma se parliamo di fronti più vasti devo sempre ricorrere ad un appoggio fotografico. 
+
+
+Le tre giornate di uscite saranno dedicate all'acquisizione dell'uso della strumentazione.
+I processi che stanno dietro alla strumentazione sono mateamtici.
+
+TOPOGRAFIA
+sistema di riferimento locale con x y z e vale se l'oggetto ha lo sviluppo nell'intorno di 100m, se è maggiore allora bisogna tener conto che la superficie varia di quota. mnon si tratta quindi di una quota rettilina ma subiscono una deformazione che va studiata. 
+Nel nostro caso sarà 100m, quindi considerabile piatto.
+
+i punti delledificio possiamo rilevarli tramite gps, di conseguenza avremo dei riferimenti non più xyz ma wgs84-rdm2000
+
