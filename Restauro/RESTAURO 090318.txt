@@ -57,3 +57,26 @@ questi due punti danno 4 cordinate certe  quindi quelle da trovare sono effettiv
 scala tipica è 1:50
 
 
+occorre un GRADO DI PRECISIONE. le 72 misure sono osservazioni della realtà e possono avere all'interno degli errori (accidentali grossolani e sistematici)
+
+-errori grossolani: grandi e stimarli in modo semplice e facilmente individuabili
+-errori sistematici: errori dello strumento di misura, quindi gli errori sistematici si comportano sempre allo stesso modo, sono subdoli e piccoli >> per tutelarci cerchiamo di fare una misura sempre più precisa
+-accidentale: dipende da chi misura e daòl contesto, la maggior parte degli errori sono accidentali. 
+
+
+se ma misura è affetta da errore accidentale, se conosco come si propaga la varianza allora legge della statistiva si rifà alla campana di Gaus, asse di simmetria della curva è il valore medio di cui calcoleremo gli scarti di ogni equazione. 
+
+se ho tre misure: 100 90 110 media 100 lo scaro è diff media e misura quindi 10 0 -10 soma degli scarti =0 , ed è sempre uguale a 0 
+
+gli scarti vengono elevatia l quadrato e sommati tra di loro
+
+10^2 + -10^2 +0^2 =200
+divido il risultato per n-1 perchè gli scarti in statistica sono subdoli. 
+
+la popolazione è di 20 campioni 
+media di 20 campioni trovo 20 scarti non indipendenti l'uno dall'altro. 
+questa equazione è la VARIANZA
+
+dopodichè radice 2 dela varianza trovo??'risenti audio!!
+
+
