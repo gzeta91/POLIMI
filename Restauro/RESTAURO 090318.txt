@@ -204,7 +204,7 @@ correzione strumento
 IMPORTANTE -> The Chi-Square Test at 5.00% Level Passed
 
 
-RAPPRESENTANO LE SIGMA PER OGNI COORDINATA (sono tutte inferiori almillimetro)
+RAPPRESENTANO LE SIGMA PER OGNI COORDINATA (sono tutte inferiori almillimetro) perfetto
 
  				Error Propagation
                                =================
@@ -227,6 +227,8 @@ Station                     E             N             Elev
 
 
 
+scalo le ellise in modo ragionevole prima di esportarlo in CAD
+plot option 500 di size quindi lio scalo al 50
 
 
 
