@@ -99,6 +99,11 @@ de?
 
 
 
+
+
+
+
+
 ugni stazione seguia dalle misure che ha fatto
 1-c fa capire un programma che è seguito dalle cordinate
 2_ metto o le coordinate o * o !
@@ -109,8 +114,26 @@ dm punto oeeserato composta dalle varie colonne (numero punto - azimit - distanz
 6_ de END
 
 
+1 new project
 
+configurazione programma
+1_optio project (imposta)
+2 gereral (limite sul delta x
+
+est nord perhè europei  amiericano nord
 
 
 1011
 in topografia i gradi di libertàsono 4 3 traslazioni e 1 rotazione
+
+
+
+distance costant -> precisione che dipende dallo strumento
+1milligon =0.001
+qesto strumento ha 0.15 milligon
+zenit precisione più bassa -> 0.5
+
+
+fare ok e good luck
+
+
