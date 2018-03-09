@@ -20,5 +20,31 @@ TOPOGRAFIA
 sistema di riferimento locale con x y z e vale se l'oggetto ha lo sviluppo nell'intorno di 100m, se è maggiore allora bisogna tener conto che la superficie varia di quota. mnon si tratta quindi di una quota rettilina ma subiscono una deformazione che va studiata. 
 Nel nostro caso sarà 100m, quindi considerabile piatto.
 
-i punti delledificio possiamo rilevarli tramite gps, di conseguenza avremo dei riferimenti non più xyz ma wgs84-rdm2000
+i punti delledificio possiamo rilevarli tramite gps, di conseguenza avremo dei riferimenti non più xyz ma wgs84-rdm2000.
+
+
+STRUMENTI:
+
+STAZIONE TOTALE: struumento ch emisura angoli e distanze. ha al suo interno un cerchio, goniometro, cerchio zenitale e distanziometro.
+cerchio piano misura sul piano orizontale
+cerchio verticale misura angoli zenitali 
+per la distanza o serve un target passivo (carta) o attivo (prisma che riflette) non è la stessa cosa.
+LA MISURA di distanza è dal centro al punto che voglio rilevare. l'angolo in Azimut è un angolo orizzontale. a noi interessa la lettura in azimut e si trattera di una DIREZIONE Azimuttale.
+
+ANGOLO ZENITALE: angolo che si misura tra l'asse dello strumento che fa da asse primario, questo asse deve essere verticale e usiamo delle livelle. una sferica una digitale. Il margine d'errore è non considerabile. a quel piunto l'angolo zenitale è un agnolo che va dalla misura in alto fino allo zenit. questi angolòo sonpo angoli in GONS 400°giro,  100°retto,  quindi 1°= 1,3456.
+
+l'asse di collimazione è formato dalla lente obiettivo e da un reticolo montato nel canocchiale che graficamente mostr auna croce. il cannocchiale è chiuso quindi come facio a fare la messa a fuoco? tra le due lenti è posizionata una terza lente che spostiamo tramite una rotellina (cannochiale topografico)
+
+La misura col prisma è una misura elettrom. quell'altra si misura con il lasezer. 
+
+in architettura viene usata maggiormente quella con il lazer. 
+
+la stazione totale è ad altezza uomo. le reti topografiche sono chiodi messi a terra. il punto a terra è un punto fisico a terra. 
+il punto j è il munto disposto e avremo così un adistanza IJ. 
+
+la rete posizionata è definita da un sistema locale, es. origine della rete e direzione asse j. 
+
+teta ij = arcotg(xj-x1)/(yj-yi)
+
+
 
