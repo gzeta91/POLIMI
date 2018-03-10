@@ -18,7 +18,7 @@ Stabilite serie di regole di modellare rispetto al progetto, capire lo scopo del
 DAL MODELLO
 -anche esecutivi
 
-
+PROGRAMMA E ESAMI (3)
 
 muri solai tetti
 solai
@@ -34,3 +34,37 @@ personalizzazione di famglie oggeti parametrici
 
 dynamo, per automatizzare alcune funzioni
 
+
+
+
+.rvt
+
+file template - ambiente di lavoro personalizzati
+
+.rfa famiglia es porta 
+
+
+si sceglie il template rispetto a cosa si deve fare 
+
+
+IN REVIT SI MISURA IN 1:1
+unità serVONO A DIRE A REVIT CHE unità di misura disegna
+quando docgiti mettere umnità di misura es è in metri scrivo "100cm"
+
+
+
+///l'importanza dei livelli///
+non si può creare un livello in una vista in pianta ma in una vista vertiale
+
+
+
+>DUPLICAZIONE VISTA
+ clic dx dulica: duplicate with details = con anche elementi
+
+> CREAZIONE ALTRI VIVELLI PIANI
+
+
+
+>WALL   -> HEIGHT basso verso alto 
+        -> depth verso il basso
+	->
