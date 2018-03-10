@@ -67,6 +67,7 @@ se scatto due foto in facciata posso fare il 3d dove le foto si sovrappongono
 
 foto scattate
 alcune con mire con codice a barre circorale serve per il programa scalate per la distanza autoprodotte (stampate su a4 date dal programma)
+
 mira per laser scanner
 
 tools marker print market 6 per pagina 
@@ -75,10 +76,10 @@ alineamento riconosciuto i target e assegnato le distanze
 
 7
 reference:
-updat -> dato che gli errori sonopiï¿½ piccoli di 5 mm allora lo accettiamo
+updat -> dato che gli errori sonopiù piccoli di 5 mm allora lo accettiamo
 ultimize
 
 
 workflow aggressive
 
-pixel metï¿½ del graficismo -> 5mmm
+pixel metà del graficismo -> 5mmm
