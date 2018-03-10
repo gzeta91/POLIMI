@@ -11,3 +11,26 @@ vantaggi:offerta accurata
 	progettisti:
 	 modelli non solo architettonico, ma anche strutturale e artistico
 	 correziommi automatiche con le modifiche	
+
+
+Stabilite serie di regole di modellare rispetto al progetto, capire lo scopo del modello.
+
+DAL MODELLO
+-anche esecutivi
+
+
+
+muri solai tetti
+solai
+controsoffitti e modanature
+modello to tavola 
+come si estrapolano dati
+
+! 15 minuti da dwg a revit
+rendering
+personalizzazione di famglie oggeti parametrici
+
+! realizzazione oggetto parametrico famigli apersonalizata
+
+dynamo, per automatizzare alcune funzioni
+
