@@ -62,3 +62,23 @@ devo calcolare l guarda foto
 se scatto due foto in facciata posso fare il 3d dove le foto si sovrappongono
 > cambare impostazione almeno 60% di sovrapposizione almeno 3 foto punto di partenza almeno in tre foto e punto finale almeno in tre foto. 
 >
+
+
+
+foto scattate
+alcune con mire con codice a barre circorale serve per il programa scalate per la distanza autoprodotte (stampate su a4 date dal programma)
+mira per laser scanner
+
+tools marker print market 6 per pagina 
+
+alineamento riconosciuto i target e assegnato le distanze
+
+7
+reference:
+updat -> dato che gli errori sonopi� piccoli di 5 mm allora lo accettiamo
+ultimize
+
+
+workflow aggressive
+
+pixel met� del graficismo -> 5mmm
