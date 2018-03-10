@@ -1,0 +1,13 @@
+REVIT SABATO 100318
+
+insieme di tecnologie e processimprogettuale con al centro un modello di geometreie parametriche.
+
+committnza-> preventivazion.e più accurata. budjet reale.
+
+vantaggi:offerta accurata
+	 gestione degli ordini in cantiere
+	 migliore coordinazione con subappaltatori
+
+	progettisti:
+	 modelli non solo architettonico, ma anche strutturale e artistico
+	 correziommi automatiche con le modifiche	
